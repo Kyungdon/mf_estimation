@@ -1,3 +1,6 @@
 # mf_estimation
-globally optimal Manhattan frame estimation in real-time
+K.Joo, T.-H Oh, J.Kim, I.S. Kweon, "globally optimal Manhattan frame estimation in real-time", CVPR 2016
+
+Source code:
+  MATLAB implementation
 
